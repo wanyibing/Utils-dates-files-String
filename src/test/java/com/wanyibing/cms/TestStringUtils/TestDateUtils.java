@@ -23,7 +23,7 @@ public class TestDateUtils {
 		
 		Date future =  new Date(120,0,1);
 		int remainDay = DateUtils.getRemainDays(future);
-		System.out.println(" 距离元旦还剩下  " + remainDay);
+		System.out.println(" 距离元旦还剩下s  " + remainDay);
 		
 	}
 	

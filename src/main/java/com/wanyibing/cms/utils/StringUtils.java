@@ -8,7 +8,7 @@ import java.util.regex.Pattern;
 
 /**
  * 
- * @author zhuzg
+ * @author wanyibing
  *
  */
 public class StringUtils {
@@ -65,7 +65,7 @@ public class StringUtils {
 	/**
 	 * 
 	 * @param str
-	 * @return
+	 * @returns
 	 */
 	public static boolean isMobile(String str) {
 		String regex = "^1[3456789]\\d{9}$";

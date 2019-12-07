@@ -14,7 +14,7 @@ import com.wanyibing.cms.utils.StringUtils;
  
 /**
  * 
- * @author zhuzg
+ * @author wanyibing
  *
  */
 public class TestStringUtils {

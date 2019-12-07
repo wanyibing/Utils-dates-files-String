@@ -11,7 +11,7 @@ import com.wanyibing.cms.utils.FileUtils;
 
 /**
  * 测试文件的工具类
- * @author zhuzg
+ * @author wanyibing
  *
  */
 public class TestFileUtils {

@@ -7,7 +7,7 @@ import java.util.Locale;
 
 /**
  * 关于日期的工具类
- * @author zhuzg
+ * @author wanyibing
  *
  */
 public class DateUtils {
@@ -19,7 +19,7 @@ public class DateUtils {
 	
 	/**
 	 * 计算年龄
-	 * @param birthday  生日
+	 * @param birthday  生日s
 	 * @return  返回年龄
 	 */
 	public static int getAge(Date birthday) {

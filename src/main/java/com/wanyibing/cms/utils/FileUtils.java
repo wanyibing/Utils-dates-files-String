@@ -118,7 +118,7 @@ public class FileUtils {
 	/**
 	 *  比较两个两个文件架内容是否相同
 	 * @param src  原目录
-	 * @param dst  目标目录
+	 * @param dst  目标目录s
 	 * @throws IOException 
 	 * @throws FileNotFoundException 
 	 */
