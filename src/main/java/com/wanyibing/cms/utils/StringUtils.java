@@ -161,5 +161,17 @@ public static boolean isEmail(String str) {
 		return new String(word,"GBK");
 		
 	}
+	/**
+	 * 断手机号码是否为数值，是否长度为11位，开始位必须是1
+	 */
+	private static boolean isTelephoneIsOk(String src) {
+		 
+		 Pattern pattern = Pattern.compile("^1[2345678]//d{9}&");
+		 Matcher matcher = pattern.matcher(src);
+		 boolean find = matcher.find();
+		 return find ;
+	}
+	
+	
 
 }
